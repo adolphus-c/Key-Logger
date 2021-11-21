@@ -8,7 +8,7 @@ keys = []
 def on_press(key):
     print("{0} pressed".format(key))
     
-def write
+def write()
     
 def on_release(key):
     if key == Key.esc:
