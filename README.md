@@ -1,6 +1,3 @@
-# Key-Logger
+In the project directory, you can run:
 
-# clone in any directory
-# cd Key-Logger
-# chmod +x install.sh
-# python main.py
+### `npm start`
