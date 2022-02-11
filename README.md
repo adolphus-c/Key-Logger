@@ -1,3 +1,5 @@
 In the project directory, you can run:
 
-### `npm start`
+### `chmod +x install.sh`
+### `./install.sh`
+### `python main.py`
