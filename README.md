@@ -1,5 +1,4 @@
 In the project directory, you can run:
 
-### `chmod +x install.sh`
-### `./install.sh`
+### `pip install -r requirements.txt`
 ### `python main.py`
